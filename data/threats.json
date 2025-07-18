@@ -1,4 +1,27 @@
 [
-    { "lat": 58.5, "lon": 16.0 },
-    { "lat": 56.0, "lon": 13.5 }
+  {
+    "name": "Radar Station Alpha",
+    "lat": 58.9,
+    "lon": 16.1
+  },
+  {
+    "name": "SAM Site Bravo",
+    "lat": 57.5,
+    "lon": 12.0
+  },
+  {
+    "name": "No-Fly Zone Charlie",
+    "lat": 56.8,
+    "lon": 13.5
+  },
+  {
+    "name": "Jamming Tower Delta",
+    "lat": 59.0,
+    "lon": 15.8
+  },
+  {
+    "name": "Hostile Activity Echo",
+    "lat": 58.2,
+    "lon": 14.7
+  }
 ]

@@ -18,7 +18,9 @@ def render_map(aois, threats, route):
             location=[t["lat"], t["lon"]],
             color="red",
             fill=True,
-            fill_opacity=0.3
+            fill_opacity=0.3,
+            popup=t["name"],
+            tooltip=t["name"]
         ).add_to(m)
 
     for i in range(len(route) - 1):

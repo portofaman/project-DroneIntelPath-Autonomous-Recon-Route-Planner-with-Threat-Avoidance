@@ -1,7 +1,12 @@
 [
-    { "name": "Stockholm", "lat": 59.3293, "lon": 18.0686 },
-    { "name": "Gothenburg", "lat": 57.7089, "lon": 11.9746 },
-    { "name": "Malmö", "lat": 55.604981, "lon": 13.003822 },
-    { "name": "Uppsala", "lat": 59.8586, "lon": 17.6389 },
-    { "name": "Örebro", "lat": 59.2741, "lon": 15.2066 }
+  { "name": "Stockholm Command",     "lat": 59.3293, "lon": 18.0686 },
+  { "name": "Gothenburg Base",       "lat": 57.7089, "lon": 11.9746 },
+  { "name": "Malmo Outpost",         "lat": 55.6049, "lon": 13.0038 },
+  { "name": "Uppsala Hub",           "lat": 59.8586, "lon": 17.6389 },
+  { "name": "Orebro Unit",           "lat": 59.2741, "lon": 15.2066 },
+  { "name": "Linkoping Ops Center",  "lat": 58.4109, "lon": 15.6216 },
+  { "name": "Sundsvall Relay",       "lat": 62.3908, "lon": 17.3069 },
+  { "name": "Lulea Arctic Point",    "lat": 65.5848, "lon": 22.1547 },
+  { "name": "Karlstad Control",      "lat": 59.3793, "lon": 13.5036 },
+  { "name": "Kalmar Radar Sync",     "lat": 56.6634, "lon": 16.3568 }
 ]
