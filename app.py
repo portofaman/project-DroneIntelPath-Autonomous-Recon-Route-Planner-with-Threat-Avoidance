@@ -3,7 +3,7 @@ from planner.map_graph import load_locations, render_map
 from planner.agents import plan_route_with_agents
 
 st.set_page_config(layout="wide")
-st.title("🗺️ AgentRoute: Intelligent Itinerary Planner with Threat Awareness")
+st.title("🗺️ DroneIntel: An Agentic AI Framework for Safe Aerial Reconnaissance")
 
 aois = load_locations("data/aoi.json")
 threats = load_locations("data/threats.json")
