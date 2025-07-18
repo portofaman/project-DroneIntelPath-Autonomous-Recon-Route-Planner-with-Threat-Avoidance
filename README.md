@@ -1,4 +1,4 @@
-# 🛰️ Agentic Recon Planner
+# 🛰️ Agentic Drone Reconnaissance Planner
 ![Static Badge](https://img.shields.io/badge/Python-3.8%2B-black)
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.0%2B-red)
 ![Static Badge](https://img.shields.io/badge/AgenticAI-LangChain-blue)
