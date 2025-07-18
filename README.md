@@ -1,5 +1,8 @@
-
 # 🛰️ Agentic Recon Planner
+![Static Badge](https://img.shields.io/badge/Python-3.8%2B-black)
+![Streamlit](https://img.shields.io/badge/Streamlit-1.0%2B-red)
+![Static Badge](https://img.shields.io/badge/AgenticAI-LangChain-blue)
+
 
 This project simulates a drone reconnaissance mission planner using **graph-based path planning**, **LangGraph for Agentic AI**, and **interactive mapping with Streamlit & Folium**. The app computes an optimal route between strategic AOIs (Areas of Interest) while intelligently avoiding threats such as SAM sites, radar stations, and no-fly zones.
 
